@@ -1,4 +1,5 @@
-#include "MyClass.h"
+nikita edited this
+    #include "MyClass.h"
 /** i have changed something**/
 MyClass::MyClass() : counter(0) {}
 
